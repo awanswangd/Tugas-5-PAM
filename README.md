@@ -51,3 +51,7 @@ FAB + → Add Note
 2. Buka di Android Studio / IntelliJ IDEA
 3. Sync Gradle
 4. Run pada emulator/device Android
+
+## Video Demo
+
+https://github.com/user-attachments/assets/940a6488-7c66-4a1d-94c8-223b548ce54f
